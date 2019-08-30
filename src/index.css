@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.searchFilter {
+  width: 80%;
+}
+.filterList {
+  width: 80%;
+  margin: 40px auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 12%;
+}
+.articleListWrap  {
+  width: 81%;
+  margin: 40px auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

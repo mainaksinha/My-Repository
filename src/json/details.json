@@ -1,0 +1,13 @@
+{
+      "details": [
+        { "id": "1", "title": "How to fetch data in React", "url": "https://www.robinwieruch.de/react-fetching-data/" },
+        { "id": "2", "title": "React 16?", "url": "https://www.robinwieruch.de/what-is-new-in-react-16/" },
+        { "id": "3", "title": "React before using Redux", "url": "https://www.robinwieruch.de/learn-react-before-using-redux/" },
+        { "id": "4", "title": "React + Redux", "url": "https://www.robinwieruch.de/tips-to-learn-react-redux/" },
+        { "id": "5", "title": "Angular to React", "url": "https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/" },
+        { "id": "6", "title": "All the Conditional Renderings in React", "url": "https://www.robinwieruch.de/conditional-rendering-react/" },
+        { "id": "7", "title": "Tips to learn React + Redux", "url": "https://www.robinwieruch.de/tips-to-learn-react-redux/" },
+        { "id": "8", "title": "Higher Order Components", "url": "https://www.robinwieruch.de/gentle-introduction-higher-order-components/" },
+        { "id": "9", "title": "Redux and MobX", "url": "https://roadtoreact.com/" }
+      ]
+    }
